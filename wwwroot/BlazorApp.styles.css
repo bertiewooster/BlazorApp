@@ -1,4 +1,4 @@
-/* bertiewooster/Components/Layout/MainLayout.razor.rz.scp.css */
+/* BlazorApp/Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-fekawvbbds] {
     position: relative;
     display: flex;
@@ -97,7 +97,7 @@ main[b-fekawvbbds] {
         right: 0.75rem;
         top: 0.5rem;
     }
-/* bertiewooster/Components/Layout/NavMenu.razor.rz.scp.css */
+/* BlazorApp/Components/Layout/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-zswk0q6kaa] {
     appearance: none;
     cursor: pointer;
